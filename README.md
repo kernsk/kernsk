@@ -21,15 +21,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">hey there 👋</h1>
 
 ###
 
-<h2 align="left">✨ About Me  ✨</h2>
-
-###
-
-<p align="left">👯 I’m aiming to collaborate on open source projects.<br>🤝 I’m looking for help with landing interviews.<br>📚 I’m currently learning more about full-stack development through a course on Udemy.<br>💬 Ask me about my project with Amazon, creating a microservice for Alexa that enabled people with speech and mobility impairments to interact with it, using hand gestures, powered by generative AI.</p>
+<p align="left">👯 I’m aiming to collaborate on open source projects.<br>📚 I’m currently learning more about full-stack development through a course on Udemy.<br>💬 Ask me about my project with Amazon, creating a microservice for Alexa that enabled people with speech and mobility impairments to interact with it, using hand gestures, powered by generative AI.</p>
 
 ###
 
