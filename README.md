@@ -21,11 +21,18 @@
 
 ###
 
-<h1 align="left">hey there 👋</h1>
+<h1 align="left">Hi 👋 My name is Kevin Kerns</h1>
 
 ###
 
-<p align="left">👯 I’m aiming to collaborate on open source projects.<br>📚 I’m currently learning more about full-stack development through a course on Udemy.<br>💬 Ask me about my project with Amazon, creating a microservice for Alexa that enabled people with speech and mobility impairments to interact with it, using hand gestures, powered by generative AI.</p>
+<h2 align="left">Software Engineer</h2>
+
+<p align="left">I am a Software Engineer that just recently graduated from Seattle University. I love working with AI, but am excited to work on any projects that make an impact!</p>
+<ul>
+  <li>👯 I’m aiming to collaborate on open source projects.</li>
+  <li>📚 I’m currently learning more about full-stack development through a course on Udemy.</li>
+  <li>💬 Ask me about my project with Amazon, creating a microservice for Alexa that enabled people with speech and mobility impairments to interact with it, using hand gestures, powered by generative AI.</li>
+</ul>
 
 ###
 
