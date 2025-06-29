@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="left">Software Engineer</h2>
+<h2 align="left">✨ Software Engineer ✨</h2>
 
 <p align="left">I am a Father of 2 little girls, a Navy Veteran, and recently graduated from Seattle University with a Bachelor's of Science in Computer Science. I love working with AI, but enjoy working on any projects that make an impact! I am excited to continue my pursuit of learning, through building.</p>
 <ul>
