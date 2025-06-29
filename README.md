@@ -27,10 +27,13 @@
 
 <h2 align="left">Software Engineer</h2>
 
-<p align="left">I am a Software Engineer that just recently graduated from Seattle University. I love working with AI, but am excited to work on any projects that make an impact!</p>
+##
+
+<p align="left">I am a Father of 2 little girls, a Navy Veteran, and recently graduated from Seattle University with a Bachelor's of Science in Computer Science. I love working with AI, but enjoy working on any projects that make an impact! I am excited to continue my pursuit of learning, through building.</p>
 <ul>
-  <li>👯 I’m aiming to collaborate on open source projects.</li>
-  <li>📚 I’m currently learning more about full-stack development through a course on Udemy.</li>
+  <li>🌏 I'm based in Seattle, Washington
+  <li>🤝 I’m aiming to collaborate on open source projects</li>
+  <li>🧠 I’m currently learning more about full-stack development through a course on Udemy</li>
   <li>💬 Ask me about my project with Amazon, creating a microservice for Alexa that enabled people with speech and mobility impairments to interact with it, using hand gestures, powered by generative AI.</li>
 </ul>
 
