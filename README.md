@@ -11,8 +11,8 @@
   <a href="https://discord.gg/RqmFuXFe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
-  <a href="kkerns@seatteu.edu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="kevin.kerns88@gmail.com" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
   <a href="https://signal.me/#eu/Js-MzmslzuG_5AokD7q29CKn5yL8zbBu3PgnkvT_Jqi-ohQSnglLzKwNQJsLO1Qe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="signal logo"  />
@@ -31,7 +31,7 @@
 <ul>
   <li>🌏 I'm based in Seattle, Washington.
   <li>🤝 I’m aiming to collaborate on open source projects.</li>
-  <li>🧠 I’m currently learning more about AI Agents, as well as engaging in an Amazon full-stack developer course on coursera.</li>
+  <li>🧠 I’m currently learning more about AI Agents, as well as engaging in a Google Project Management professional certificate on coursera to demonstrate proficiency and flexibility through a recognized source.</li>
   <li>💬 Ask me about my project with Amazon, creating a microservice for Alexa that enabled people with speech and mobility impairments to interact with it, using hand gestures, powered by generative AI.</li>
 </ul>
 
