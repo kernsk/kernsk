@@ -61,7 +61,7 @@
   </table>
 </details>
 
-<details>
+<details open>
   <summary><b>Frameworks & Development Tools</b></summary>
 
   <table>
@@ -73,7 +73,7 @@
   </table>
 </details>
 
-<details>
+<details open>
   <summary><b>Gen AI & MLOps</b></summary>
 
   <table>
@@ -98,7 +98,7 @@
   </table>
 </details>
 
-<details>
+<details open>
   <summary><b>Cloud & DevOps</b></summary>
 
   <table>
